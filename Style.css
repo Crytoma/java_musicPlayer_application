@@ -1,0 +1,49 @@
+.root
+{
+    -fx-background-color: #383838;
+}
+
+.label-player
+{
+    -fx-text-fill: #e8e8e8;
+}
+.button-player
+{
+    -fx-background-color: #ab4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+.button-blue
+{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+.menubar-dark
+{
+    -fx-background-color: #383838;
+    -fx-text-fill: #FFFFFF;
+}
+
+.table-dark
+{
+    -fx-background-color: #383838;
+    -fx-text-fill: #FFFFFF;
+}
+
+#bold-label
+{
+    -fx-font-weight: bold;
+}
+
+
+
+
+/*
+ -fx-background-color: linaer-gradient(#dc9656, #ab4642) 
+ */
+
+
+
